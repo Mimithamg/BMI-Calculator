@@ -1,2 +1,2 @@
-# bmiapp
+# BMI Calculator using flutter 
 
